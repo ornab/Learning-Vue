@@ -1,5 +1,5 @@
-# Learning-Vue
-Learning Vue.Js with Laravel
+<h1 align="center"> # Learning-Vue </h1>
+<h3 align="center"> Learning Vue.Js with Laravel </h3>
 
 
 <p align="center"><a href="https://vuejs.org" target="_blank"><img width="100"src="https://vuejs.org/images/logo.png"></a></p>
